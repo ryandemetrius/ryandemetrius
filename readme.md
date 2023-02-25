@@ -1,5 +1,5 @@
 # 👋 Meu nome é Ryan
-Sempre fui atraído(a) por computadores. Tenho uma pessoal em virar um desenvolvedor de software sênior.
+Sempre fui atraído(a) por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
 
 # 👀 Meus conhecimentos
 
@@ -10,7 +10,7 @@ Tenho conhecimentos nas tecnologias/linguagens abaixo. Estão em constante apren
 * Bancos de dados SQL Server (incluindo capacidade de modelar um banco de dados do zero)
 * Python para automatizações 
 
-Boa parte do meu aprendizado eu aprendi no curso www.eucodo.com.br
+Boa parte do meu aprendizado provém do curso www.eucodo.com.br
 
 # 📫 Como me contactar
 
