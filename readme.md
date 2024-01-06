@@ -1,5 +1,5 @@
 # 👋 Meu nome é Ryan
-Sempre fui atraído(a) por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
+Sempre fui interessado por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
 
 # 👀 Meus conhecimentos
 
