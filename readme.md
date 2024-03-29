@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate .NET developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryandemetrius&label=Profile%20views&color=0e75b6&style=flat" alt="ryandemetrius" /> </p>
-
 - 🔭 I’m currently working on **Bemobi**
 
 - 🌱 I’m currently learning **.NET, Blazor and ReactJS**
