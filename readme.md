@@ -2,10 +2,15 @@
 <h3 align="center">A passionate .NET developer from Brazil</h3>
 <br>
 <img align="right" width="400" src="101e1107e91db918a8e163622b2c95a0.gif">
-- 🔭 I’m currently working on **Bemobi**
-- 🌱 I’m currently learning **.NET, Blazor and ReactJS**
-- 📫 How to reach me **ryandemetr@gmail.com**
-- ⚡ Fun fact **I am a multi-medalist in scientific olympiads.**
+
+🔭 I’m currently working at **Bemobi**
+  
+🌱 I’m currently learning **.NET, Blazor and ReactJS**
+  
+📫 How to reach me: **ryandemetr@gmail.com**
+  
+⚡ Fun fact: **I am a multi-medalist in scientific olympiads.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-demetrius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan demetrius de oliveira borges" height="30" width="40" /></a>
@@ -51,8 +56,5 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandemetrius&show_icons=true&locale=en&theme=prussian&layout=compact" alt="ryandemetrius" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandemetrius&show_icons=true&locale=en&theme=prussian&layout=donut" alt="ryandemetrius" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&show_icons=true&theme=prussian&locale=en&layout=donut" alt="ryandemetrius" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&show_icons=true&theme=prussian&locale=en" alt="ryandemetrius" /></p>
+  <img height=220 align="left" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&theme=prussian&layout=donut" />
+  <img height=220 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandemetrius&langs_count=8&card_width=300&theme=prussian&layout=donut" />
