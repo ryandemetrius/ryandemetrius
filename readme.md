@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate .NET developer from Brazil</h3>
 
-img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif)"
+<img align="right" alt="Coding" width="400" src="(https://i.pinimg.com/originals/10/1e/11/101e1107e91db918a8e163622b2c95a0.gif)">
 
 - 🔭 I’m currently working on **Bemobi**
 
