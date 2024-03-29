@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ryandemetrius/ryandemetrius/blob/main/Ryan%20Borges(1).png?raw=true)]
+![MasterHead](https://github.com/ryandemetrius/ryandemetrius/blob/main/Ryan%20Borges(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate .NET developer from Brazil</h3>
 <br>
