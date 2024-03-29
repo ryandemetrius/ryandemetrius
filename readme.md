@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate .NET developer from Brazil</h3>
 
-<img align="right" width="400" src="https://wallpaperaccess.com/full/8642986.gif">
+<img align="right" width="400" src="101e1107e91db918a8e163622b2c95a0.gif">
 
 - 🔭 I’m currently working on **Bemobi**
 
