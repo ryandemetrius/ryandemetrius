@@ -30,6 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandemetrius&show_icons=true&locale=en&theme=prussian&layout=compact" alt="ryandemetrius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&show_icons=true&theme=prussian&locale=en" alt="ryandemetrius" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryandemetrius&theme=prussian&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&show_icons=true&theme=prussian&locale=en&layout=donut" alt="ryandemetrius" /></p>
 
