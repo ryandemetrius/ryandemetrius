@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/ryan-demetrius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan demetrius de oliveira borges" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ryandemetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryandemetr" height="30" width="40" /></a>
 </p>
-<hr>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
