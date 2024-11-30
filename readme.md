@@ -56,5 +56,5 @@
 
 <hr>
 
-  <img height=220 align="left" src="https://github-readme-stats.vercel.app/api?username=ryandemetrius&card_width=300&theme=prussian&layout=donut" />
-  <img height=220 align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryandemetrius&langs_count=8&card_width=280&theme=prussian&layout=donut" />
+  <img height=220 align="left" src="https://github-readme-stats-ryans-projects-4fbc10f2.vercel.app/api?username=ryandemetrius&card_width=300&theme=prussian&layout=donut" />
+  <img height=220 align="middle" src="https://github-readme-stats-ryans-projects-4fbc10f2.vercel.app/api/top-langs?username=ryandemetrius&langs_count=8&card_width=280&theme=prussian&layout=donut" />
